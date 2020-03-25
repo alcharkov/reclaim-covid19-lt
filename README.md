@@ -1,1 +1,1 @@
-# Official real-time data for Covid-19 sickness in Lithuania
+# Real-time data Covid-19 data (in Python Jupyter format) from official source for Lithuania.
